@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Samskrathi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samskrathi--shetty-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samskrathi-shetty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b2418?logo=googlechrome&logoColor=white)](https://samskrathi.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b2418?logo=googlechrome&logoColor=white)](https://shetty.ssamskrathi.workers.dev/)
 
 ### 👩‍💻 About me
 
